@@ -1,0 +1,21 @@
+{
+  "name": "verve-extension",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "esbuild": "^0.16.16",
+    "esbuild-svelte": "^0.7.3",
+    "svelte-preprocess": "^5.0.0",
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "svelte": "^3.55.0"
+  }
+}
